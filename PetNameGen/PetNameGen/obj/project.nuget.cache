@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "GCXg42tL0Zi8n9gV19ensjE9ZsQOnk5SiVbiSxclxg7JHikSpwK6U3qlepeBqg1h3zTn9C8eEAUfBsKCTLhnHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MarkWilliamPajarillo\\source\\repos\\act4-1-Liammm6969\\PetNameGen\\PetNameGen\\PetNameGen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MarkWilliamPajarillo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "C:\\Users\\MarkWilliamPajarillo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\MarkWilliamPajarillo\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\MarkWilliamPajarillo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\MarkWilliamPajarillo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\MarkWilliamPajarillo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\MarkWilliamPajarillo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
