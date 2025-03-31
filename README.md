@@ -6,7 +6,7 @@ PetNameGenerator is a simple and fun tool that generates creative and unique nam
 - Generates unique pet names
 - Supports multiple categories (cute, funny, exotic, etc.)
 - Randomized name selection for variety
-- Simple and easy-to-use interface
+- Simple and easy-to-use API interface
 
 ## Installation
 1. Clone this repository:
@@ -17,19 +17,21 @@ PetNameGenerator is a simple and fun tool that generates creative and unique nam
    ```sh
    cd PetNameGenerator
    ```
-3. Install dependencies (if applicable):
+3. Install dependencies:
    ```sh
-   npm install  # For JavaScript-based projects
-   pip install -r requirements.txt  # For Python-based projects
+   dotnet restore
    ```
 
 ## Usage
 Run the application with:
 ```sh
-python petnamegenerator.py  # If using Python
-node petnamegenerator.js  # If using JavaScript
+ dotnet run
 ```
-Follow the prompts to generate a pet name!
+The API will be available at `http://localhost:5000` (or another configured port).
+
+### API Endpoints
+- `GET /api/petname` - Generates a random pet name
+- `GET /api/petname/{category}` - Generates a pet name from a specific category
 
 ## Contributing
 Feel free to contribute by submitting issues or pull requests. Let's make PetNameGenerator even better!
@@ -38,5 +40,5 @@ Feel free to contribute by submitting issues or pull requests. Let's make PetNam
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or suggestions, reach out to [Your Name] at your.email@example.com.
+For questions or suggestions, reach out to me at hed-mwpajarillo@smu.edu.ph
 
